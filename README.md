@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vadym</h1>
 <h3 align="center">Not only a game developer, (but mostly I make games)</h3>
 
-- 🌱 I’m currently learning **modern and functional C++, Unreal Game engine, a little bit of Python and some Web dev stuff(new area for me). Looking towards new or not popular but cool lngngs such as Rust, Scala, Haxe etc.**
+- 🌱 I’m passioned about Games and AI so **mosly I'm working with C++ and Python. I have master degree in computer science - DATA SCIENCE and also I have experience in working on and releasing large gaming projects.**
+P.S. There is no so much green cubes in commits timeline section just because mostly I'm working with Perforce or with private repositories)
 
 - 👨‍💻 All of my projects are available [here](https://platnya.github.io/Portfolio/)
 
