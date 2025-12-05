@@ -4,7 +4,7 @@
 - 🌱 I’m passioned about Games and AI so **mosly I'm working with C++ and Python. I have master degree in computer science - DATA SCIENCE and also I have experience in working on and releasing large gaming projects.**
 - P.S. There is no so much green cubes in 'contributions' section just because mostly I'm working with Perforce or with private repositories)
 
-- 👨‍💻 All of my projects are available [here](https://platnya.github.io/Portfolio/)
+- 👨‍💻 **ALL OF MY PROJECT ARE AVAILABLE [**HERE**](https://platnya.github.io/Portfolio/)**
 
 - 💬 Ask me about **anything**
 
