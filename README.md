@@ -42,7 +42,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 
-###
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=platnya&show_icons=true&locale=en&layout=compact" alt="platnya" /></p>
 
