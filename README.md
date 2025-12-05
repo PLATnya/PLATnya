@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vadym</h1>
-<h3 align="center">Not only a game developer, (but mostly I make games)</h3>
+<h3 align="center">I'm trying to become AI Engineer and I'm making games</h3>
 
 - 🌱 I’m passioned about Games and AI so **mosly I'm working with C++ and Python. I have master degree in computer science - DATA SCIENCE and also I have experience in working on and releasing large gaming projects.**
 - P.S. There is no so much green cubes in 'contributions' section just because mostly I'm working with Perforce or with private repositories)
